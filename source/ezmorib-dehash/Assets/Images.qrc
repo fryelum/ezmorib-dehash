@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="/Images">
+		<file alias="pwf2tools-scaled.png">../../../assets/Images/pwf2tools-scaled.png</file>
+		<file alias="pwf2tools.png">../../../assets/Images/pwf2tools.png</file>
+	</qresource>
+</RCC>

@@ -1,0 +1,1484 @@
+{
+	"Names": [
+		{
+			"HashedName": "C/48F3299C",
+			"RealName": "data/common.pak"
+		},
+		{
+			"HashedName": "B/5FFE55AB",
+			"RealName": "data/common/font/dfp5.cft"
+		},
+		{
+			"HashedName": "1/A3AAD7D1",
+			"RealName": "data/common/font/dfp5v.cft"
+		},
+		{
+			"HashedName": "C/1EAC659C",
+			"RealName": "data/common/icon/rapdata01.ico"
+		},
+		{
+			"HashedName": "D/1EBA7D1D",
+			"RealName": "data/common/icon/rapdata02.ico"
+		},
+		{
+			"HashedName": "E/1EC8949E",
+			"RealName": "data/common/icon/rapdata03.ico"
+		},
+		{
+			"HashedName": "F/1ED6AC1F",
+			"RealName": "data/common/icon/rapdata04.ico"
+		},
+		{
+			"HashedName": "0/1EE4C3A0",
+			"RealName": "data/common/icon/rapdata05.ico"
+		},
+		{
+			"HashedName": "1/1EF2DB21",
+			"RealName": "data/common/icon/rapdata06.ico"
+		},
+		{
+			"HashedName": "2/1F00F2A2",
+			"RealName": "data/common/icon/rapdata07.ico"
+		},
+		{
+			"HashedName": "3/1F0F0A23",
+			"RealName": "data/common/icon/rapdata08.ico"
+		},
+		{
+			"HashedName": "4/1F1D21A4",
+			"RealName": "data/common/icon/rapdata09.ico"
+		},
+		{
+			"HashedName": "A/205326BA",
+			"RealName": "data/common/icon/rapdata10.ico"
+		},
+		{
+			"HashedName": "B/20613E3B",
+			"RealName": "data/common/icon/rapdata11.ico"
+		},
+		{
+			"HashedName": "C/206F55BC",
+			"RealName": "data/common/icon/rapdata12.ico"
+		},
+		{
+			"HashedName": "D/207D6D3D",
+			"RealName": "data/common/icon/rapdata13.ico"
+		},
+		{
+			"HashedName": "E/208B84BE",
+			"RealName": "data/common/icon/rapdata14.ico"
+		},
+		{
+			"HashedName": "F/20999C3F",
+			"RealName": "data/common/icon/rapdata15.ico"
+		},
+		{
+			"HashedName": "0/20A7B3C0",
+			"RealName": "data/common/icon/rapdata16.ico"
+		},
+		{
+			"HashedName": "1/20B5CB41",
+			"RealName": "data/common/icon/rapdata17.ico"
+		},
+		{
+			"HashedName": "2/20C3E2C2",
+			"RealName": "data/common/icon/rapdata18.ico"
+		},
+		{
+			"HashedName": "D/7D41658D",
+			"RealName": "data/common/icon/system.ico"
+		},
+		{
+			"HashedName": "6/706AC5F6",
+			"RealName": "data/common/icon/textdata01.ico"
+		},
+		{
+			"HashedName": "7/7078DD77",
+			"RealName": "data/common/icon/textdata02.ico"
+		},
+		{
+			"HashedName": "8/7086F4F8",
+			"RealName": "data/common/icon/textdata03.ico"
+		},
+		{
+			"HashedName": "9/70950C79",
+			"RealName": "data/common/icon/textdata04.ico"
+		},
+		{
+			"HashedName": "A/70A323FA",
+			"RealName": "data/common/icon/textdata05.ico"
+		},
+		{
+			"HashedName": "B/70B13B7B",
+			"RealName": "data/common/icon/textdata06.ico"
+		},
+		{
+			"HashedName": "C/70BF52FC",
+			"RealName": "data/common/icon/textdata07.ico"
+		},
+		{
+			"HashedName": "D/70CD6A7D",
+			"RealName": "data/common/icon/textdata08.ico"
+		},
+		{
+			"HashedName": "E/70DB81FE",
+			"RealName": "data/common/icon/textdata09.ico"
+		},
+		{
+			"HashedName": "4/72118714",
+			"RealName": "data/common/icon/textdata10.ico"
+		},
+		{
+			"HashedName": "5/721F9E95",
+			"RealName": "data/common/icon/textdata11.ico"
+		},
+		{
+			"HashedName": "6/722DB616",
+			"RealName": "data/common/icon/textdata12.ico"
+		},
+		{
+			"HashedName": "7/723BCD97",
+			"RealName": "data/common/icon/textdata13.ico"
+		},
+		{
+			"HashedName": "8/7249E518",
+			"RealName": "data/common/icon/textdata14.ico"
+		},
+		{
+			"HashedName": "9/7257FC99",
+			"RealName": "data/common/icon/textdata15.ico"
+		},
+		{
+			"HashedName": "A/7266141A",
+			"RealName": "data/common/icon/textdata16.ico"
+		},
+		{
+			"HashedName": "B/72742B9B",
+			"RealName": "data/common/icon/textdata17.ico"
+		},
+		{
+			"HashedName": "C/7282431C",
+			"RealName": "data/common/icon/textdata18.ico"
+		},
+		{
+			"HashedName": "2/B980AFD2",
+			"RealName": "data/common/iopmods/FileUtil.irx"
+		},
+		{
+			"HashedName": "D/E1C8F92D",
+			"RealName": "data/common/iopmods/IopStd.irx"
+		},
+		{
+			"HashedName": "D/43088B0D",
+			"RealName": "data/common/iopmods/SndServ.irx"
+		},
+		{
+			"HashedName": "B/B46BDADB",
+			"RealName": "data/common/iopmods/ToolsMod.irx"
+		},
+		{
+			"HashedName": "9/1721D8E9",
+			"RealName": "data/common/iopmods/dbcman.irx"
+		},
+		{
+			"HashedName": "8/FD74DD58",
+			"RealName": "data/common/iopmods/dev9.irx"
+		},
+		{
+			"HashedName": "E/7F2989FE",
+			"RealName": "data/common/iopmods/ds1o_s1.irx"
+		},
+		{
+			"HashedName": "A/31E09A2A",
+			"RealName": "data/common/iopmods/ezmidi.irx"
+		},
+		{
+			"HashedName": "8/C72FDB28",
+			"RealName": "data/common/iopmods/inet.irx"
+		},
+		{
+			"HashedName": "5/A00B6F15",
+			"RealName": "data/common/iopmods/inetctl.irx"
+		},
+		{
+			"HashedName": "E/7354D3BE",
+			"RealName": "data/common/iopmods/inetlog.irx"
+		},
+		{
+			"HashedName": "A/CCAEABEA",
+			"RealName": "data/common/iopmods/ioprp.img"
+		},
+		{
+			"HashedName": "C/9B7968CC",
+			"RealName": "data/common/iopmods/libnet.irx"
+		},
+		{
+			"HashedName": "4/36A96D64",
+			"RealName": "data/common/iopmods/libsd.irx"
+		},
+		{
+			"HashedName": "2/83610AD2",
+			"RealName": "data/common/iopmods/mcman.irx"
+		},
+		{
+			"HashedName": "0/364F5480",
+			"RealName": "data/common/iopmods/mcserv.irx"
+		},
+		{
+			"HashedName": "0/CC1D3FF0",
+			"RealName": "data/common/iopmods/modhsyn.irx"
+		},
+		{
+			"HashedName": "1/9E689531",
+			"RealName": "data/common/iopmods/modmidi.irx"
+		},
+		{
+			"HashedName": "0/6DF9FA50",
+			"RealName": "data/common/iopmods/msifrpc.irx"
+		},
+		{
+			"HashedName": "2/49817F72",
+			"RealName": "data/common/iopmods/netcnf.irx"
+		},
+		{
+			"HashedName": "F/5383FDCF",
+			"RealName": "data/common/iopmods/netcnfif.irx"
+		},
+		{
+			"HashedName": "1/5FDFE271",
+			"RealName": "data/common/iopmods/ntgui2.irx"
+		},
+		{
+			"HashedName": "B/5E2FE43B",
+			"RealName": "data/common/iopmods/padman.irx"
+		},
+		{
+			"HashedName": "E/11436E7E",
+			"RealName": "data/common/iopmods/ppp.irx"
+		},
+		{
+			"HashedName": "4/3CB55614",
+			"RealName": "data/common/iopmods/pppoe.irx"
+		},
+		{
+			"HashedName": "B/E785021B",
+			"RealName": "data/common/iopmods/sdrdrv.irx"
+		},
+		{
+			"HashedName": "9/854E7859",
+			"RealName": "data/common/iopmods/sio2d.irx"
+		},
+		{
+			"HashedName": "F/9ED8654F",
+			"RealName": "data/common/iopmods/sio2man.irx"
+		},
+		{
+			"HashedName": "D/9A09A01D",
+			"RealName": "data/common/iopmods/smap.irx"
+		},
+		{
+			"HashedName": "4/A83D1BF4",
+			"RealName": "data/common/iopmods/usbd.irx"
+		},
+		{
+			"HashedName": "9/6E1A2129",
+			"RealName": "data/common/iopmods/usbkb.irx"
+		},
+		{
+			"HashedName": "6/0A2A7546",
+			"RealName": "data/common/mbl/bbunit.tm2"
+		},
+		{
+			"HashedName": "F/3CE8287F",
+			"RealName": "data/common/rap/01.sht"
+		},
+		{
+			"HashedName": "0/3CE82E30",
+			"RealName": "data/common/rap/01.txt"
+		},
+		{
+			"HashedName": "0/3CF64000",
+			"RealName": "data/common/rap/02.sht"
+		},
+		{
+			"HashedName": "1/3CF645B1",
+			"RealName": "data/common/rap/02.txt"
+		},
+		{
+			"HashedName": "1/3D045781",
+			"RealName": "data/common/rap/03.sht"
+		},
+		{
+			"HashedName": "2/3D045D32",
+			"RealName": "data/common/rap/03.txt"
+		},
+		{
+			"HashedName": "2/3D126F02",
+			"RealName": "data/common/rap/04.sht"
+		},
+		{
+			"HashedName": "3/3D1274B3",
+			"RealName": "data/common/rap/04.txt"
+		},
+		{
+			"HashedName": "3/3D208683",
+			"RealName": "data/common/rap/05.sht"
+		},
+		{
+			"HashedName": "4/3D208C34",
+			"RealName": "data/common/rap/05.txt"
+		},
+		{
+			"HashedName": "4/3D2E9E04",
+			"RealName": "data/common/rap/06.sht"
+		},
+		{
+			"HashedName": "5/3D2EA3B5",
+			"RealName": "data/common/rap/06.txt"
+		},
+		{
+			"HashedName": "5/3D3CB585",
+			"RealName": "data/common/rap/07.sht"
+		},
+		{
+			"HashedName": "6/3D3CBB36",
+			"RealName": "data/common/rap/07.txt"
+		},
+		{
+			"HashedName": "6/3D4ACD06",
+			"RealName": "data/common/rap/08.sht"
+		},
+		{
+			"HashedName": "7/3D4AD2B7",
+			"RealName": "data/common/rap/08.txt"
+		},
+		{
+			"HashedName": "7/3D58E487",
+			"RealName": "data/common/rap/09.sht"
+		},
+		{
+			"HashedName": "8/3D58EA38",
+			"RealName": "data/common/rap/09.txt"
+		},
+		{
+			"HashedName": "D/3E8EE99D",
+			"RealName": "data/common/rap/10.sht"
+		},
+		{
+			"HashedName": "E/3E8EEF4E",
+			"RealName": "data/common/rap/10.txt"
+		},
+		{
+			"HashedName": "E/3E9D011E",
+			"RealName": "data/common/rap/11.sht"
+		},
+		{
+			"HashedName": "F/3E9D06CF",
+			"RealName": "data/common/rap/11.txt"
+		},
+		{
+			"HashedName": "F/3EAB189F",
+			"RealName": "data/common/rap/12.sht"
+		},
+		{
+			"HashedName": "0/3EAB1E50",
+			"RealName": "data/common/rap/12.txt"
+		},
+		{
+			"HashedName": "0/3EB93020",
+			"RealName": "data/common/rap/13.sht"
+		},
+		{
+			"HashedName": "1/3EB935D1",
+			"RealName": "data/common/rap/13.txt"
+		},
+		{
+			"HashedName": "1/3EC747A1",
+			"RealName": "data/common/rap/14.sht"
+		},
+		{
+			"HashedName": "2/3EC74D52",
+			"RealName": "data/common/rap/14.txt"
+		},
+		{
+			"HashedName": "2/3ED55F22",
+			"RealName": "data/common/rap/15.sht"
+		},
+		{
+			"HashedName": "3/3ED564D3",
+			"RealName": "data/common/rap/15.txt"
+		},
+		{
+			"HashedName": "3/3EE376A3",
+			"RealName": "data/common/rap/16.sht"
+		},
+		{
+			"HashedName": "4/3EE37C54",
+			"RealName": "data/common/rap/16.txt"
+		},
+		{
+			"HashedName": "4/3EF18E24",
+			"RealName": "data/common/rap/17.sht"
+		},
+		{
+			"HashedName": "5/3EF193D5",
+			"RealName": "data/common/rap/17.txt"
+		},
+		{
+			"HashedName": "5/3EFFA5A5",
+			"RealName": "data/common/rap/18.sht"
+		},
+		{
+			"HashedName": "6/3EFFAB56",
+			"RealName": "data/common/rap/18.txt"
+		},
+		{
+			"HashedName": "F/7CE2734F",
+			"RealName": "data/common/rap/extra/01.txt"
+		},
+		{
+			"HashedName": "0/7CF08AD0",
+			"RealName": "data/common/rap/extra/02.txt"
+		},
+		{
+			"HashedName": "1/7CFEA251",
+			"RealName": "data/common/rap/extra/03.txt"
+		},
+		{
+			"HashedName": "2/7D0CB9D2",
+			"RealName": "data/common/rap/extra/04.txt"
+		},
+		{
+			"HashedName": "3/7D1AD153",
+			"RealName": "data/common/rap/extra/05.txt"
+		},
+		{
+			"HashedName": "4/7D28E8D4",
+			"RealName": "data/common/rap/extra/06.txt"
+		},
+		{
+			"HashedName": "5/7D370055",
+			"RealName": "data/common/rap/extra/07.txt"
+		},
+		{
+			"HashedName": "6/7D4517D6",
+			"RealName": "data/common/rap/extra/08.txt"
+		},
+		{
+			"HashedName": "7/7D532F57",
+			"RealName": "data/common/rap/extra/09.txt"
+		},
+		{
+			"HashedName": "C/7E892EBC",
+			"RealName": "data/common/rap/extra/10.sht"
+		},
+		{
+			"HashedName": "D/7E89346D",
+			"RealName": "data/common/rap/extra/10.txt"
+		},
+		{
+			"HashedName": "D/7E97463D",
+			"RealName": "data/common/rap/extra/11.sht"
+		},
+		{
+			"HashedName": "E/7E974BEE",
+			"RealName": "data/common/rap/extra/11.txt"
+		},
+		{
+			"HashedName": "F/7EA5636F",
+			"RealName": "data/common/rap/extra/12.txt"
+		},
+		{
+			"HashedName": "F/7EB3753F",
+			"RealName": "data/common/rap/extra/13.sht"
+		},
+		{
+			"HashedName": "0/7EB37AF0",
+			"RealName": "data/common/rap/extra/13.txt"
+		},
+		{
+			"HashedName": "0/7EC18CC0",
+			"RealName": "data/common/rap/extra/14.sht"
+		},
+		{
+			"HashedName": "1/7EC19271",
+			"RealName": "data/common/rap/extra/14.txt"
+		},
+		{
+			"HashedName": "1/7ECFA441",
+			"RealName": "data/common/rap/extra/15.sht"
+		},
+		{
+			"HashedName": "2/7ECFA9F2",
+			"RealName": "data/common/rap/extra/15.txt"
+		},
+		{
+			"HashedName": "2/7EDDBBC2",
+			"RealName": "data/common/rap/extra/16.sht"
+		},
+		{
+			"HashedName": "3/7EDDC173",
+			"RealName": "data/common/rap/extra/16.txt"
+		},
+		{
+			"HashedName": "3/7EEBD343",
+			"RealName": "data/common/rap/extra/17.sht"
+		},
+		{
+			"HashedName": "4/7EEBD8F4",
+			"RealName": "data/common/rap/extra/17.txt"
+		},
+		{
+			"HashedName": "4/7EF9EAC4",
+			"RealName": "data/common/rap/extra/18.sht"
+		},
+		{
+			"HashedName": "5/7EF9F075",
+			"RealName": "data/common/rap/extra/18.txt"
+		},
+		{
+			"HashedName": "3/6B19DC23",
+			"RealName": "data/common/textures.pak"
+		},
+		{
+			"HashedName": "4/A49D4444",
+			"RealName": "data/common/vrs.pak"
+		},
+		{
+			"HashedName": "0/BBBF3280",
+			"RealName": "data/common/vrs/22khz-r/fsw22m04.apr"
+		},
+		{
+			"HashedName": "7/E3FC4E67",
+			"RealName": "data/common/vrs/22khz-r/mym22m02.apr"
+		},
+		{
+			"HashedName": "5/F6550265",
+			"RealName": "data/common/vrs_game.pak"
+		},
+		{
+			"HashedName": "2/3BCB4D52",
+			"RealName": "data/common/vrs_menu.pak"
+		},
+		{
+			"HashedName": "E/A594901E",
+			"RealName": "data/editor.pak"
+		},
+		{
+			"HashedName": "9/FE643699",
+			"RealName": "data/editor/sap/edit_help001.sap"
+		},
+		{
+			"HashedName": "A/FE724E1A",
+			"RealName": "data/editor/sap/edit_help002.sap"
+		},
+		{
+			"HashedName": "B/FE80659B",
+			"RealName": "data/editor/sap/edit_help003.sap"
+		},
+		{
+			"HashedName": "C/FE8E7D1C",
+			"RealName": "data/editor/sap/edit_help004.sap"
+		},
+		{
+			"HashedName": "D/FE9C949D",
+			"RealName": "data/editor/sap/edit_help005.sap"
+		},
+		{
+			"HashedName": "E/FEAAAC1E",
+			"RealName": "data/editor/sap/edit_help006.sap"
+		},
+		{
+			"HashedName": "F/FEB8C39F",
+			"RealName": "data/editor/sap/edit_help007.sap"
+		},
+		{
+			"HashedName": "0/FEC6DB20",
+			"RealName": "data/editor/sap/edit_help008.sap"
+		},
+		{
+			"HashedName": "1/FED4F2A1",
+			"RealName": "data/editor/sap/edit_help009.sap"
+		},
+		{
+			"HashedName": "7/000AF7B7",
+			"RealName": "data/editor/sap/edit_help010.sap"
+		},
+		{
+			"HashedName": "8/00190F38",
+			"RealName": "data/editor/sap/edit_help011.sap"
+		},
+		{
+			"HashedName": "9/002726B9",
+			"RealName": "data/editor/sap/edit_help012.sap"
+		},
+		{
+			"HashedName": "A/00353E3A",
+			"RealName": "data/editor/sap/edit_help013.sap"
+		},
+		{
+			"HashedName": "B/004355BB",
+			"RealName": "data/editor/sap/edit_help014.sap"
+		},
+		{
+			"HashedName": "C/00516D3C",
+			"RealName": "data/editor/sap/edit_help015.sap"
+		},
+		{
+			"HashedName": "6/0BC7E2C6",
+			"RealName": "data/editor/sound/editor.bd"
+		},
+		{
+			"HashedName": "1/03F6A7E1",
+			"RealName": "data/editor/textures.pak"
+		},
+		{
+			"HashedName": "3/EBFF0D63",
+			"RealName": "data/game.pak"
+		},
+		{
+			"HashedName": "F/7AF9B2BF",
+			"RealName": "data/game/sound/main.bd"
+		},
+		{
+			"HashedName": "F/5715246F",
+			"RealName": "data/game/stages/01.pak"
+		},
+		{
+			"HashedName": "0/57233BF0",
+			"RealName": "data/game/stages/02.pak"
+		},
+		{
+			"HashedName": "1/57315371",
+			"RealName": "data/game/stages/03.pak"
+		},
+		{
+			"HashedName": "2/573F6AF2",
+			"RealName": "data/game/stages/04.pak"
+		},
+		{
+			"HashedName": "3/574D8273",
+			"RealName": "data/game/stages/05.pak"
+		},
+		{
+			"HashedName": "4/575B99F4",
+			"RealName": "data/game/stages/06.pak"
+		},
+		{
+			"HashedName": "5/5769B175",
+			"RealName": "data/game/stages/07.pak"
+		},
+		{
+			"HashedName": "6/5777C8F6",
+			"RealName": "data/game/stages/08.pak"
+		},
+		{
+			"HashedName": "7/5785E077",
+			"RealName": "data/game/stages/09.pak"
+		},
+		{
+			"HashedName": "D/58BBE58D",
+			"RealName": "data/game/stages/10.pak"
+		},
+		{
+			"HashedName": "E/58C9FD0E",
+			"RealName": "data/game/stages/11.pak"
+		},
+		{
+			"HashedName": "F/58D8148F",
+			"RealName": "data/game/stages/12.pak"
+		},
+		{
+			"HashedName": "0/58E62C10",
+			"RealName": "data/game/stages/13.pak"
+		},
+		{
+			"HashedName": "1/58F44391",
+			"RealName": "data/game/stages/14.pak"
+		},
+		{
+			"HashedName": "2/59025B12",
+			"RealName": "data/game/stages/15.pak"
+		},
+		{
+			"HashedName": "3/59107293",
+			"RealName": "data/game/stages/16.pak"
+		},
+		{
+			"HashedName": "4/591E8A14",
+			"RealName": "data/game/stages/17.pak"
+		},
+		{
+			"HashedName": "5/592CA195",
+			"RealName": "data/game/stages/18.pak"
+		},
+		{
+			"HashedName": "C/08D4483C",
+			"RealName": "data/game/textures.pak"
+		},
+		{
+			"HashedName": "0/31755850",
+			"RealName": "data/menu.pak"
+		},
+		{
+			"HashedName": "A/59E3059A",
+			"RealName": "data/menu/dnas/authdata"
+		},
+		{
+			"HashedName": "8/578C8518",
+			"RealName": "data/menu/logo/7on_logo.tm2"
+		},
+		{
+			"HashedName": "3/2DAC6A73",
+			"RealName": "data/menu/logo/kiyaku1.tm2"
+		},
+		{
+			"HashedName": "4/2DBA81F4",
+			"RealName": "data/menu/logo/kiyaku2.tm2"
+		},
+		{
+			"HashedName": "5/2DC89975",
+			"RealName": "data/menu/logo/kiyaku3.tm2"
+		},
+		{
+			"HashedName": "6/2DD6B0F6",
+			"RealName": "data/menu/logo/kiyaku4.tm2"
+		},
+		{
+			"HashedName": "7/2DE4C877",
+			"RealName": "data/menu/logo/kiyaku5.tm2"
+		},
+		{
+			"HashedName": "8/2DF2DFF8",
+			"RealName": "data/menu/logo/kiyaku6.tm2"
+		},
+		{
+			"HashedName": "9/2E00F779",
+			"RealName": "data/menu/logo/kiyaku7.tm2"
+		},
+		{
+			"HashedName": "A/2E0F0EFA",
+			"RealName": "data/menu/logo/kiyaku8.tm2"
+		},
+		{
+			"HashedName": "6/B6186716",
+			"RealName": "data/menu/logo/scelogo2.tm2"
+		},
+		{
+			"HashedName": "9/0D593129",
+			"RealName": "data/menu/serial/clear.pak"
+		},
+		{
+			"HashedName": "6/C7FF0336",
+			"RealName": "data/menu/serial/clear/textures.pak"
+		},
+		{
+			"HashedName": "D/C8FDDC5D",
+			"RealName": "data/menu/serial/fudehen.pak"
+		},
+		{
+			"HashedName": "C/AB3793AC",
+			"RealName": "data/menu/serial/mil.pak"
+		},
+		{
+			"HashedName": "3/02C3C413",
+			"RealName": "data/menu/serial/mil/textures.pak"
+		},
+		{
+			"HashedName": "4/BEA726B4",
+			"RealName": "data/menu/serial/opening.pak"
+		},
+		{
+			"HashedName": "B/2A751A0B",
+			"RealName": "data/menu/serial/opening/textures.pak"
+		},
+		{
+			"HashedName": "0/32DCC6D0",
+			"RealName": "data/menu/serial/over.pak"
+		},
+		{
+			"HashedName": "F/409BD96F",
+			"RealName": "data/menu/serial/over/textures.pak"
+		},
+		{
+			"HashedName": "D/E3A9A16D",
+			"RealName": "data/menu/serial/shinri.pak"
+		},
+		{
+			"HashedName": "2/10AE9F72",
+			"RealName": "data/menu/serial/shinri/textures.pak"
+		},
+		{
+			"HashedName": "A/A139B85A",
+			"RealName": "data/menu/serial/tutorial.pak"
+		},
+		{
+			"HashedName": "6/F71054F6",
+			"RealName": "data/menu/serial/tutorial/sound/main.bd"
+		},
+		{
+			"HashedName": "5/0CD50325",
+			"RealName": "data/menu/serial/tutorial/textures.pak"
+		},
+		{
+			"HashedName": "6/DF720006",
+			"RealName": "data/menu/sound/menu.bd"
+		},
+		{
+			"HashedName": "8/AE7AA698",
+			"RealName": "data/menu/speech/alert/a_414.sap"
+		},
+		{
+			"HashedName": "4/B00538B4",
+			"RealName": "data/menu/speech/alert/a_421.sap"
+		},
+		{
+			"HashedName": "5/B0135035",
+			"RealName": "data/menu/speech/alert/a_422.sap"
+		},
+		{
+			"HashedName": "A/6BBC81FA",
+			"RealName": "data/menu/speech/alert/mc001.sap"
+		},
+		{
+			"HashedName": "D/F36E766D",
+			"RealName": "data/menu/speech/alert/mc002_1.sap"
+		},
+		{
+			"HashedName": "E/F37C8DEE",
+			"RealName": "data/menu/speech/alert/mc002_2.sap"
+		},
+		{
+			"HashedName": "F/F38AA56F",
+			"RealName": "data/menu/speech/alert/mc002_3.sap"
+		},
+		{
+			"HashedName": "0/F398BCF0",
+			"RealName": "data/menu/speech/alert/mc002_4.sap"
+		},
+		{
+			"HashedName": "1/F3A6D471",
+			"RealName": "data/menu/speech/alert/mc002_5.sap"
+		},
+		{
+			"HashedName": "E/2854B1AE",
+			"RealName": "data/menu/speech/alert/mc003_1.sap"
+		},
+		{
+			"HashedName": "F/2862C92F",
+			"RealName": "data/menu/speech/alert/mc003_2.sap"
+		},
+		{
+			"HashedName": "0/2870E0B0",
+			"RealName": "data/menu/speech/alert/mc003_3.sap"
+		},
+		{
+			"HashedName": "1/287EF831",
+			"RealName": "data/menu/speech/alert/mc003_4.sap"
+		},
+		{
+			"HashedName": "2/288D0FB2",
+			"RealName": "data/menu/speech/alert/mc003_5.sap"
+		},
+		{
+			"HashedName": "D/6BE6C87D",
+			"RealName": "data/menu/speech/alert/mc004.sap"
+		},
+		{
+			"HashedName": "E/6BF4DFFE",
+			"RealName": "data/menu/speech/alert/mc005.sap"
+		},
+		{
+			"HashedName": "0/6C110F00",
+			"RealName": "data/menu/speech/alert/mc007.sap"
+		},
+		{
+			"HashedName": "1/6C1F2681",
+			"RealName": "data/menu/speech/alert/mc008.sap"
+		},
+		{
+			"HashedName": "2/6C2D3E02",
+			"RealName": "data/menu/speech/alert/mc009.sap"
+		},
+		{
+			"HashedName": "9/6D715A99",
+			"RealName": "data/menu/speech/alert/mc011.sap"
+		},
+		{
+			"HashedName": "C/6D9BA11C",
+			"RealName": "data/menu/speech/alert/mc014.sap"
+		},
+		{
+			"HashedName": "D/6DA9B89D",
+			"RealName": "data/menu/speech/alert/mc015.sap"
+		},
+		{
+			"HashedName": "E/6DB7D01E",
+			"RealName": "data/menu/speech/alert/mc016.sap"
+		},
+		{
+			"HashedName": "F/6DC5E79F",
+			"RealName": "data/menu/speech/alert/mc017.sap"
+		},
+		{
+			"HashedName": "0/6DD3FF20",
+			"RealName": "data/menu/speech/alert/mc018.sap"
+		},
+		{
+			"HashedName": "1/6DE216A1",
+			"RealName": "data/menu/speech/alert/mc019.sap"
+		},
+		{
+			"HashedName": "7/6F181BB7",
+			"RealName": "data/menu/speech/alert/mc020.sap"
+		},
+		{
+			"HashedName": "8/6F263338",
+			"RealName": "data/menu/speech/alert/mc021.sap"
+		},
+		{
+			"HashedName": "9/6F344AB9",
+			"RealName": "data/menu/speech/alert/mc022.sap"
+		},
+		{
+			"HashedName": "B/6F5079BB",
+			"RealName": "data/menu/speech/alert/mc024.sap"
+		},
+		{
+			"HashedName": "C/6F5E913C",
+			"RealName": "data/menu/speech/alert/mc025.sap"
+		},
+		{
+			"HashedName": "D/6F6CA8BD",
+			"RealName": "data/menu/speech/alert/mc026.sap"
+		},
+		{
+			"HashedName": "E/6F7AC03E",
+			"RealName": "data/menu/speech/alert/mc027.sap"
+		},
+		{
+			"HashedName": "F/6F88D7BF",
+			"RealName": "data/menu/speech/alert/mc028.sap"
+		},
+		{
+			"HashedName": "8/86082BA8",
+			"RealName": "data/menu/speech/alert/ne_01.sap"
+		},
+		{
+			"HashedName": "9/86164329",
+			"RealName": "data/menu/speech/alert/ne_02.sap"
+		},
+		{
+			"HashedName": "A/86245AAA",
+			"RealName": "data/menu/speech/alert/ne_03.sap"
+		},
+		{
+			"HashedName": "B/8632722B",
+			"RealName": "data/menu/speech/alert/ne_04.sap"
+		},
+		{
+			"HashedName": "C/864089AC",
+			"RealName": "data/menu/speech/alert/ne_05.sap"
+		},
+		{
+			"HashedName": "D/864EA12D",
+			"RealName": "data/menu/speech/alert/ne_06.sap"
+		},
+		{
+			"HashedName": "E/865CB8AE",
+			"RealName": "data/menu/speech/alert/ne_07.sap"
+		},
+		{
+			"HashedName": "F/866AD02F",
+			"RealName": "data/menu/speech/alert/ne_08.sap"
+		},
+		{
+			"HashedName": "0/8678E7B0",
+			"RealName": "data/menu/speech/alert/ne_09.sap"
+		},
+		{
+			"HashedName": "6/87AEECC6",
+			"RealName": "data/menu/speech/alert/ne_10.sap"
+		},
+		{
+			"HashedName": "7/87BD0447",
+			"RealName": "data/menu/speech/alert/ne_11.sap"
+		},
+		{
+			"HashedName": "E/74FF220E",
+			"RealName": "data/menu/speech/alert/ne_12n.sap"
+		},
+		{
+			"HashedName": "9/87D93349",
+			"RealName": "data/menu/speech/alert/ne_13.sap"
+		},
+		{
+			"HashedName": "A/87E74ACA",
+			"RealName": "data/menu/speech/alert/ne_14.sap"
+		},
+		{
+			"HashedName": "B/87F5624B",
+			"RealName": "data/menu/speech/alert/ne_15.sap"
+		},
+		{
+			"HashedName": "C/880379CC",
+			"RealName": "data/menu/speech/alert/ne_16.sap"
+		},
+		{
+			"HashedName": "D/8811914D",
+			"RealName": "data/menu/speech/alert/ne_17.sap"
+		},
+		{
+			"HashedName": "E/881FA8CE",
+			"RealName": "data/menu/speech/alert/ne_18.sap"
+		},
+		{
+			"HashedName": "F/882DC04F",
+			"RealName": "data/menu/speech/alert/ne_19.sap"
+		},
+		{
+			"HashedName": "1/A67BAC11",
+			"RealName": "data/menu/speech/alert/ne_20n.sap"
+		},
+		{
+			"HashedName": "6/8971DCE6",
+			"RealName": "data/menu/speech/alert/ne_21.sap"
+		},
+		{
+			"HashedName": "7/897FF467",
+			"RealName": "data/menu/speech/alert/ne_22.sap"
+		},
+		{
+			"HashedName": "8/898E0BE8",
+			"RealName": "data/menu/speech/alert/ne_23.sap"
+		},
+		{
+			"HashedName": "9/899C2369",
+			"RealName": "data/menu/speech/alert/ne_24.sap"
+		},
+		{
+			"HashedName": "A/89AA3AEA",
+			"RealName": "data/menu/speech/alert/ne_25.sap"
+		},
+		{
+			"HashedName": "B/89B8526B",
+			"RealName": "data/menu/speech/alert/ne_26.sap"
+		},
+		{
+			"HashedName": "C/89C669EC",
+			"RealName": "data/menu/speech/alert/ne_27.sap"
+		},
+		{
+			"HashedName": "D/89D4816D",
+			"RealName": "data/menu/speech/alert/ne_28.sap"
+		},
+		{
+			"HashedName": "E/89E298EE",
+			"RealName": "data/menu/speech/alert/ne_29.sap"
+		},
+		{
+			"HashedName": "4/8B189E04",
+			"RealName": "data/menu/speech/alert/ne_30.sap"
+		},
+		{
+			"HashedName": "5/8B26B585",
+			"RealName": "data/menu/speech/alert/ne_31.sap"
+		},
+		{
+			"HashedName": "0/DECB9890",
+			"RealName": "data/menu/speech/alert/ne_32n.sap"
+		},
+		{
+			"HashedName": "7/8B42E487",
+			"RealName": "data/menu/speech/alert/ne_33.sap"
+		},
+		{
+			"HashedName": "8/8B50FC08",
+			"RealName": "data/menu/speech/alert/ne_34.sap"
+		},
+		{
+			"HashedName": "8/B0A37F98",
+			"RealName": "data/menu/speech/help/help001.sap"
+		},
+		{
+			"HashedName": "9/B0B19719",
+			"RealName": "data/menu/speech/help/help002.sap"
+		},
+		{
+			"HashedName": "A/B0BFAE9A",
+			"RealName": "data/menu/speech/help/help003.sap"
+		},
+		{
+			"HashedName": "B/B0CDC61B",
+			"RealName": "data/menu/speech/help/help004.sap"
+		},
+		{
+			"HashedName": "C/B0DBDD9C",
+			"RealName": "data/menu/speech/help/help005.sap"
+		},
+		{
+			"HashedName": "D/B0E9F51D",
+			"RealName": "data/menu/speech/help/help006.sap"
+		},
+		{
+			"HashedName": "E/B0F80C9E",
+			"RealName": "data/menu/speech/help/help007.sap"
+		},
+		{
+			"HashedName": "F/B106241F",
+			"RealName": "data/menu/speech/help/help008.sap"
+		},
+		{
+			"HashedName": "6/B24A40B6",
+			"RealName": "data/menu/speech/help/help010.sap"
+		},
+		{
+			"HashedName": "7/B2585837",
+			"RealName": "data/menu/speech/help/help011.sap"
+		},
+		{
+			"HashedName": "8/B2666FB8",
+			"RealName": "data/menu/speech/help/help012.sap"
+		},
+		{
+			"HashedName": "9/B2748739",
+			"RealName": "data/menu/speech/help/help013.sap"
+		},
+		{
+			"HashedName": "A/B2829EBA",
+			"RealName": "data/menu/speech/help/help014.sap"
+		},
+		{
+			"HashedName": "B/B290B63B",
+			"RealName": "data/menu/speech/help/help015.sap"
+		},
+		{
+			"HashedName": "C/B29ECDBC",
+			"RealName": "data/menu/speech/help/help016.sap"
+		},
+		{
+			"HashedName": "D/B2ACE53D",
+			"RealName": "data/menu/speech/help/help017.sap"
+		},
+		{
+			"HashedName": "F/B2C9143F",
+			"RealName": "data/menu/speech/help/help019.sap"
+		},
+		{
+			"HashedName": "5/B3FF1955",
+			"RealName": "data/menu/speech/help/help020.sap"
+		},
+		{
+			"HashedName": "6/B40D30D6",
+			"RealName": "data/menu/speech/help/help021.sap"
+		},
+		{
+			"HashedName": "7/B41B4857",
+			"RealName": "data/menu/speech/help/help022.sap"
+		},
+		{
+			"HashedName": "9/B4377759",
+			"RealName": "data/menu/speech/help/help024.sap"
+		},
+		{
+			"HashedName": "A/B4458EDA",
+			"RealName": "data/menu/speech/help/help025.sap"
+		},
+		{
+			"HashedName": "B/B453A65B",
+			"RealName": "data/menu/speech/help/help026.sap"
+		},
+		{
+			"HashedName": "C/B461BDDC",
+			"RealName": "data/menu/speech/help/help027.sap"
+		},
+		{
+			"HashedName": "9/DCF19B19",
+			"RealName": "data/menu/speech/help/help028n.sap"
+		},
+		{
+			"HashedName": "E/B47DECDE",
+			"RealName": "data/menu/speech/help/help029.sap"
+		},
+		{
+			"HashedName": "4/B5B3F1F4",
+			"RealName": "data/menu/speech/help/help030.sap"
+		},
+		{
+			"HashedName": "5/B5C20975",
+			"RealName": "data/menu/speech/help/help031.sap"
+		},
+		{
+			"HashedName": "6/B5D020F6",
+			"RealName": "data/menu/speech/help/help032.sap"
+		},
+		{
+			"HashedName": "7/B5DE3877",
+			"RealName": "data/menu/speech/help/help033.sap"
+		},
+		{
+			"HashedName": "8/B5EC4FF8",
+			"RealName": "data/menu/speech/help/help034.sap"
+		},
+		{
+			"HashedName": "4/1F8D9504",
+			"RealName": "data/menu/speech/narration/st00.sap"
+		},
+		{
+			"HashedName": "5/1F9BAC85",
+			"RealName": "data/menu/speech/narration/st01.sap"
+		},
+		{
+			"HashedName": "6/1FA9C406",
+			"RealName": "data/menu/speech/narration/st02.sap"
+		},
+		{
+			"HashedName": "7/1FB7DB87",
+			"RealName": "data/menu/speech/narration/st03.sap"
+		},
+		{
+			"HashedName": "A/95F9A0BA",
+			"RealName": "data/menu/speech/narration/st04_1.sap"
+		},
+		{
+			"HashedName": "B/9607B83B",
+			"RealName": "data/menu/speech/narration/st04_2.sap"
+		},
+		{
+			"HashedName": "B/CADFDBFB",
+			"RealName": "data/menu/speech/narration/st05_1.sap"
+		},
+		{
+			"HashedName": "C/CAEDF37C",
+			"RealName": "data/menu/speech/narration/st05_2.sap"
+		},
+		{
+			"HashedName": "C/FFC6173C",
+			"RealName": "data/menu/speech/narration/st06_1.sap"
+		},
+		{
+			"HashedName": "D/FFD42EBD",
+			"RealName": "data/menu/speech/narration/st06_2.sap"
+		},
+		{
+			"HashedName": "B/1FF0398B",
+			"RealName": "data/menu/speech/narration/st07.sap"
+		},
+		{
+			"HashedName": "E/69928DBE",
+			"RealName": "data/menu/speech/narration/st08_1.sap"
+		},
+		{
+			"HashedName": "F/69A0A53F",
+			"RealName": "data/menu/speech/narration/st08_2.sap"
+		},
+		{
+			"HashedName": "F/9E78C8FF",
+			"RealName": "data/menu/speech/narration/st09_1.sap"
+		},
+		{
+			"HashedName": "0/9E86E080",
+			"RealName": "data/menu/speech/narration/st09_2.sap"
+		},
+		{
+			"HashedName": "7/F1305F07",
+			"RealName": "data/menu/speech/narration/st10_1_1.sap"
+		},
+		{
+			"HashedName": "8/F13E7688",
+			"RealName": "data/menu/speech/narration/st10_1_2.sap"
+		},
+		{
+			"HashedName": "6/2A4FF816",
+			"RealName": "data/menu/speech/narration/st10_2.sap"
+		},
+		{
+			"HashedName": "4/21508524",
+			"RealName": "data/menu/speech/narration/st11.sap"
+		},
+		{
+			"HashedName": "7/940E5717",
+			"RealName": "data/menu/speech/narration/st12_1.sap"
+		},
+		{
+			"HashedName": "8/941C6E98",
+			"RealName": "data/menu/speech/narration/st12_2.sap"
+		},
+		{
+			"HashedName": "6/216CB426",
+			"RealName": "data/menu/speech/narration/st13.sap"
+		},
+		{
+			"HashedName": "A/C910C15A",
+			"RealName": "data/menu/speech/narration/st13_3.sap"
+		},
+		{
+			"HashedName": "7/217ACBA7",
+			"RealName": "data/menu/speech/narration/st14.sap"
+		},
+		{
+			"HashedName": "E/AC1CA90E",
+			"RealName": "data/menu/speech/narration/st14_3_2.sap"
+		},
+		{
+			"HashedName": "8/2188E328",
+			"RealName": "data/menu/speech/narration/st15.sap"
+		},
+		{
+			"HashedName": "9/2196FAA9",
+			"RealName": "data/menu/speech/narration/st16.sap"
+		},
+		{
+			"HashedName": "A/21A5122A",
+			"RealName": "data/menu/speech/narration/st17.sap"
+		},
+		{
+			"HashedName": "D/D173BA9D",
+			"RealName": "data/menu/speech/narration/st18_1.sap"
+		},
+		{
+			"HashedName": "1/93700611",
+			"RealName": "data/menu/speech/narration/st18_1_3.sap"
+		},
+		{
+			"HashedName": "0/C83A1250",
+			"RealName": "data/menu/speech/narration/st18_2_1.sap"
+		},
+		{
+			"HashedName": "4/26D760C4",
+			"RealName": "data/menu/speech/narration/st18_2_2_2.sap"
+		},
+		{
+			"HashedName": "C/21C1412C",
+			"RealName": "data/menu/speech/narration/st19.sap"
+		},
+		{
+			"HashedName": "2/22F74642",
+			"RealName": "data/menu/speech/narration/st20.sap"
+		},
+		{
+			"HashedName": "3/23055DC3",
+			"RealName": "data/menu/speech/narration/st21.sap"
+		},
+		{
+			"HashedName": "4/23137544",
+			"RealName": "data/menu/speech/narration/st22.sap"
+		},
+		{
+			"HashedName": "5/23218CC5",
+			"RealName": "data/menu/speech/narration/st23.sap"
+		},
+		{
+			"HashedName": "6/232FA446",
+			"RealName": "data/menu/speech/narration/st24.sap"
+		},
+		{
+			"HashedName": "9/9AA235B9",
+			"RealName": "data/menu/speech/narration/st25_1.sap"
+		},
+		{
+			"HashedName": "A/9AB04D3A",
+			"RealName": "data/menu/speech/narration/st25_2.sap"
+		},
+		{
+			"HashedName": "8/234BD348",
+			"RealName": "data/menu/speech/narration/st26.sap"
+		},
+		{
+			"HashedName": "F/EACEF7EF",
+			"RealName": "data/menu/textures.pak"
+		},
+		{
+			"HashedName": "1/177CBEB1",
+			"RealName": "data/menu/vsa/dan.vsa"
+		},
+		{
+			"HashedName": "8/89C85D78",
+			"RealName": "data/menu/vsa/kan.vsa"
+		},
+		{
+			"HashedName": "A/F394D3FA",
+			"RealName": "data/menu/vsa/man.vsa"
+		},
+		{
+			"HashedName": "D/6CB3D53D",
+			"RealName": "data/menu/vsa/ten.vsa"
+		},
+		{
+			"HashedName": "2/2993E0F2",
+			"RealName": "data/netgui2/SYS_NET.ICO"
+		},
+		{
+			"HashedName": "4/04BAF9A4",
+			"RealName": "data/netgui2/bg.rgb"
+		},
+		{
+			"HashedName": "C/92BDD9EC",
+			"RealName": "data/netgui2/bg2.rgb"
+		},
+		{
+			"HashedName": "B/09E3E0EB",
+			"RealName": "data/netgui2/eff.bd"
+		},
+		{
+			"HashedName": "5/09E3E1A5",
+			"RealName": "data/netgui2/eff.hd"
+		},
+		{
+			"HashedName": "8/340B75D8",
+			"RealName": "data/netgui2/icon.sys"
+		},
+		{
+			"HashedName": "3/9D1E5B53",
+			"RealName": "data/netgui2/japanese.pf"
+		},
+		{
+			"HashedName": "0/58A9A3E0",
+			"RealName": "data/netgui2/jis2ucs.bin"
+		},
+		{
+			"HashedName": "0/C91D3360",
+			"RealName": "data/netgui2/ucs2jis.bin"
+		},
+		{
+			"HashedName": "C/B93E242C",
+			"RealName": "data/xeditor.pak"
+		},
+		{
+			"HashedName": "7/218935D7",
+			"RealName": "data/xeditor/sound/rap_help001.sap"
+		},
+		{
+			"HashedName": "8/21974D58",
+			"RealName": "data/xeditor/sound/rap_help002.sap"
+		},
+		{
+			"HashedName": "9/21A564D9",
+			"RealName": "data/xeditor/sound/rap_help003.sap"
+		},
+		{
+			"HashedName": "A/21B37C5A",
+			"RealName": "data/xeditor/sound/rap_help004.sap"
+		},
+		{
+			"HashedName": "B/21C193DB",
+			"RealName": "data/xeditor/sound/rap_help005.sap"
+		},
+		{
+			"HashedName": "C/21CFAB5C",
+			"RealName": "data/xeditor/sound/rap_help006.sap"
+		},
+		{
+			"HashedName": "D/21DDC2DD",
+			"RealName": "data/xeditor/sound/rap_help007.sap"
+		},
+		{
+			"HashedName": "F/4714DF4F",
+			"RealName": "data/xeditor/sound/se.bd"
+		},
+		{
+			"HashedName": "3/CFD7C393",
+			"RealName": "data/xeditor/textures.pak"
+		}
+	]
+}
